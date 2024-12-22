@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my github. Here I will upload some of the projects I've worked on or currently I am working on. For now I use this page for learning purpose only.
+
 <!--
 **amiralibanaei-eng/amiralibanaei-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
